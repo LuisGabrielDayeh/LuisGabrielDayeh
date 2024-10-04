@@ -1,4 +1,3 @@
-![👋 Hi, my name is Sushil Magare](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
 <h1 align="center">Hello there, I'm Luis-Gabriel Dayeh </h1>
 
