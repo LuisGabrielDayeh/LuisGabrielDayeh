@@ -1,4 +1,3 @@
-
 <h1 align="center">Hello there, I'm Luis-Gabriel Dayeh </h1>
 
 <h3 align="center">Connect with me: </h3>
