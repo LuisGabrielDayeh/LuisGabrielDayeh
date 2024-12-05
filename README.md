@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Luis-Gabriel Dayeh </h1>
 
 
-<h2 align="center"> Software Engineer at <a href="https://www.flowkey.com/en" target="blank" style="text-decoration: none"> flowkey </a></h1>
+<h2 align="center"> Software Engineer at <a href="https://www.flowkey.com/en" target="blank"> flowkey </a></h1>
 
 <h3 align="center">Connect with me: </h3>
 
