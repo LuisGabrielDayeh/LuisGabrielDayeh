@@ -2,7 +2,6 @@
 
 <h2 align="center">Software Engineer at <a href="https://www.flowkey.com/en" target="blank" style="color: #EF7D00;">flowkey</a></h2>
 
-
 <h3 align="center">Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/luis-gabrieldayeh/" target="blank">
