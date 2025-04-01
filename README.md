@@ -8,6 +8,8 @@
   </a>
 </p>
 
+![LuisGabrielDayeh's Stats](https://github-readme-stats.vercel.app/api?username=LuisGabrielDayeh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
