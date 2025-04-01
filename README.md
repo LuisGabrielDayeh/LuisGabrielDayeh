@@ -8,10 +8,8 @@
   </a>
 </p>
 
-<div align="center">
 ![LuisGabrielDayeh's Stats](https://github-readme-stats.vercel.app/api?username=LuisGabrielDayeh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![LuisGabrielDayeh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuisGabrielDayeh&theme=tokyonight&hide_border=true)
-</div>
 
 <h3 align="center">Tech Stack</h3>
 
