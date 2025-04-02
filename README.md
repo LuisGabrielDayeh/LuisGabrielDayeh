@@ -8,16 +8,7 @@
   </a>
 </p>
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=LuisGabrielDayeh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisGabrielDayeh&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
+
 
 <h3 align="center">Tech Stack</h3>
 
