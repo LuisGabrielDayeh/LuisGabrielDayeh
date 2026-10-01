@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Luis-Gabriel Dayeh</h1>
-<h2 align="center">Software Engineer at <a href="https://www.flowkey.com/en" target="blank" style="color: #EF7D00;">flowkey</a></h2>
+<h2 align="center">Tech Lead | Software Engineer at <a href="https://www.flowkey.com/en" target="blank" style="color: #EF7D00;">flowkey</a></h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luis-gabrieldayeh/" target="blank">
